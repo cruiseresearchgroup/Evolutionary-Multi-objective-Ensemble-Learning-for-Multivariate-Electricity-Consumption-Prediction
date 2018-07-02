@@ -7,10 +7,11 @@ the raw data) to be used by the model. This work proposes an evolutionary multi-
 
 This repository contains resources developed within the following paper:
 
-  Song, H., Qin, A. K., & Salim, F. D. (2018). Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction. 
-  In 2018 International Joint Conference on Neural Networks (IJCNN). IEEE, 2018.
+    Song, H., Qin, A. K., & Salim, F. D. (2018). 
+    Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction. 
+    In 2018 International Joint Conference on Neural Networks (IJCNN). IEEE, 2018.
   
-You can find the [paper](link_to_your_github_pdf_resource_file.pdf) and [presentation](link_to_your_github_pdf_resource_file.pdf) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/Evolutionary-Multi-objective-Ensemble-Learning-for-Multivariate-Electricity-Consumption-Prediction/blob/master/paper/song2018evolutionary.pdf) in this repository. 
 
 Alternative link: **TBD**
 
@@ -29,7 +30,6 @@ If you use the resources (code and dataset) presented in this repository, please
   title={Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction},
   author={Song, Hui and Qin, A. K. and Salim, Flora D.},
   booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},
-  pages={1--999},
   year={2018},
   organization={IEEE}
 }
